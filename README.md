@@ -80,4 +80,4 @@ NO additional packages required!
 
 ## **Demo**
 - **GitHub**: https://github.com/balaji25-b/Appscrip-task-balaji.git
-- **Netlify**: 
+- **Netlify**: https://benevolent-parfait-7488e5.netlify.app/
